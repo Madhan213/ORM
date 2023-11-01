@@ -48,7 +48,8 @@ class Player_Admin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-11-01 091420.png>)
+![Screenshot 2023-11-01 091420](https://github.com/Madhan213/ORM/assets/130206230/b0391ffc-2176-4c93-8aa7-44064037335f)
+
 
 
 ## RESULT
